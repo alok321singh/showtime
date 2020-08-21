@@ -2,14 +2,14 @@ import firebase from 'firebase';
 import '@firebase/firestore'
 
 const firebaseConfig = {
-  apiKey:'AIzaSyCaqGLmItH3LOQgJ58Ia-rIX7g7FnPcViA',
-  authDomain: 'react-native-ce4d2.web.app',
+  apiKey:'xxxxxxxxxxxxxxxxx',
+  authDomain: 'xxxxxxxxxxxxxxx',
  
-  projectId: 'react-native-ce4d2',
+  projectId: 'xxxxxxxxxxxxx',
   storageBucket: '',
-  messagingSenderId:'424048184536',
-  appId: '1:424048184536:android:25abeb8161cb8ac368dbad',
-  databaseURL:'https://react-native-ce4d2.firebaseio.com/'
+  messagingSenderId:'xxxxxxxxxxxx',
+  appId: 'xxxxxxxxxxxxxxx',
+  databaseURL:'xxxxxxxxxxxxx'
 }
 
 // Initialize Firebase
